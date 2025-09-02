@@ -1,2 +1,2 @@
-## Hi there 👋
-BSCS student passionate about programming, web development, and problem solving. Learning C++, Python, and exploring GitHub projects
+ Hi there 👋
+BSCS 3rd semester student | Learning C++, Python, SQL, and Git | Exploring projects in software development and open-source.
